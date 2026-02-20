@@ -1,4 +1,4 @@
-;;; my-awesome0mode.el --- Minor mode for awesome things. -*- lexical-binding: t; -*-
+;;; my-awesome-mode.el --- Minor mode for awesome things -*- lexical-binding: t; -*-
 
 ;; Author: TATEISHI Tadatoshi <tateishi@tw.tokai-tv.co.jp>
 ;; Maintainer: TATEISHI Tadatoshi <tateishi@tw.tokai-tv.co.jp>
@@ -31,7 +31,7 @@
   :init-value nil
   :lighter " Awesome"
   :keymap (let ((map (make-sparse-keymap)))
-            (define-key map (kbd "C-c a g") #'my-awesome-greet)
+            (define-key map (kbd "C-c . g") #'my-awesome-greet)
             map)
   (if my-awesome-mode
       (message "my-awesome-mode enabled")
