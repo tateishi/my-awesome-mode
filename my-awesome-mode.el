@@ -1,11 +1,11 @@
 ;;; my-awesome-mode.el --- Minor mode for awesome things -*- lexical-binding: t; -*-
 
-;; Author: TATEISHI Tadatoshi <tateishi@tw.tokai-tv.co.jp>
-;; Maintainer: TATEISHI Tadatoshi <tateishi@tw.tokai-tv.co.jp>
+;; Author: TATEISHI Tadatoshi <ishio39@gmail.com>
+;; Maintainer: TATEISHI Tadatoshi <ishio39@gmail.com>
 ;; Version: 0.0.1
 ;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: convenience, tools
-;; URL: https://github.com/tateishi
+;; URL: https://github.com/tateishi/my-awesome-mode
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 
 ;;; Commentary:

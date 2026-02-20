@@ -1,3 +1,6 @@
 # MY AWESOME MODE
 
-sample project.
+This minor mode adds awesome features.
+
+Usage:
+  M-x my-awesome-mode
