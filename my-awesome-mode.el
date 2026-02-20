@@ -1,4 +1,4 @@
-;;; my-awesome0mode.el --- Minor mode for awesome things. -*- lexical-bindgin: t; -*-
+;;; my-awesome0mode.el --- Minor mode for awesome things. -*- lexical-binding: t; -*-
 
 ;; Author: TATEISHI Tadatoshi <tateishi@tw.tokai-tv.co.jp>
 ;; Maintainer: TATEISHI Tadatoshi <tateishi@tw.tokai-tv.co.jp>
